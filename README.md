@@ -1,4 +1,3 @@
-````markdown
 # UiPath RPA – Stock Price Trend Comparison  
 
 ## 📌 Introduction  
@@ -115,5 +114,6 @@ This automation project solves the problem by scheduling **automatic stock price
 🔗 [LinkedIn](https://linkedin.com/in/izzahluthfiah) | [GitHub](https://github.com/Ixzahlutf)
 
 ---
+
 
 
