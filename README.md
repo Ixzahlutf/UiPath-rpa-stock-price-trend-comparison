@@ -88,8 +88,6 @@ This automation project solves the problem by scheduling **automatic stock price
 1. Clone the repository:  
    ```bash
    git clone https://github.com/Ixzahlutf/uipath-rpa-stock-price-trend-comparison.git
-````
-
 2. Open the project in **UiPath Studio**.
 3. Restore dependencies.
 4. Configure Outlook mailbox + update `Config.xlsx` with recipient details.
@@ -114,6 +112,7 @@ This automation project solves the problem by scheduling **automatic stock price
 🔗 [LinkedIn](https://linkedin.com/in/izzahluthfiah) | [GitHub](https://github.com/Ixzahlutf)
 
 ---
+
 
 
 
